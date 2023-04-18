@@ -34,11 +34,14 @@ body {
 
 .list-git {
     list-style: none;
+    margin-top: 30px;
+    font-size: 26px;
     font-family: 'Chivo Mono', monospace;
     color: #111;
 }
 
 .list-p {
+    text-decoration: none;
     margin-top: 3px;
     font-size: 18px;
     color: #4078c0;
